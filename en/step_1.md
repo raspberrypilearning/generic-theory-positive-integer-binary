@@ -1,19 +1,11 @@
-## Introduction
+Binary or base 2 is a number system which only uses the digits 0 and 1. We usually use denary which uses the digits 0 to 9.
 
-Add project description here. What will learners be making?
+Here is the number 5 in binary.
 
-### What you will make
+![Binary](images/binary-positive.png)
 
-Add something here to showcase here, for example:
+The top line of numbers represent the **place value** of each digit, rather like you may have written H T U to represent hundreds, tens and units when you were very young. Notice that these place values double as they move to the left.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
+To work out the equivalent number in denary, add the place values containing a 1 together. In this case we are adding 4 + 1 = 5
 
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
-
-### What you will learn
-
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
-
-+ [Add curriculum strand/level description.](https://www.raspberrypi.org/curriculum/strand/level)
+Each place is called a **bit** and this number is represented with 8 bits. The largest positive integer we can represent using this notation is 255 which would be 11111111 in binary. To represent larger numbers, we need more bits!
