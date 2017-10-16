@@ -1,6 +1,6 @@
 title: Representing positive integers in binary
 hero_image: images/banner.png
-description: Learn how to represent a positive integer using 8 bit binary
+description: Learn how to represent a positive integer using 8-bit binary
 original_url:
 theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 1 # possible values: 1, 2 or 3
@@ -12,4 +12,4 @@ interests: ""
 technologies: ""
 site_areas:
 steps:
-  - title: Introduction
+  - title: Positive integers in binary
